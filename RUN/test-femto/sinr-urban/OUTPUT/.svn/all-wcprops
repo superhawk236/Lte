@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-urban/OUTPUT
+END
+only_macro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-urban/OUTPUT/only_macro
+END
+macro_with_streets
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-urban/OUTPUT/macro_with_streets
+END
+macro_with_femto
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-urban/OUTPUT/macro_with_femto
+END
+macro_with_femto_reuse
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-urban/OUTPUT/macro_with_femto_reuse
+END

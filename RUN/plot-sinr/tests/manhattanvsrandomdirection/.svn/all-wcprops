@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/tests/manhattanvsrandomdirection
+END
+mob.eps
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/tests/manhattanvsrandomdirection/mob.eps
+END
+randdir_vs_manh_300sec_120kmh.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/tests/manhattanvsrandomdirection/randdir_vs_manh_300sec_120kmh.pdf
+END
+randdir_vs_manh_500sec_30kmh.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/tests/manhattanvsrandomdirection/randdir_vs_manh_500sec_30kmh.pdf
+END

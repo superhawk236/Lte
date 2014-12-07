@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/LTE-Sim/!svn/ver/73
+END
+bugs
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/LTE-Sim/!svn/ver/75/bugs
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/LTE-Sim/!svn/ver/75/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/LTE-Sim/!svn/ver/75/AUTHORS
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/LTE-Sim/!svn/ver/75/RELEASE_NOTES
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/LTE-Sim/!svn/ver/75/CONTRIBUTORS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/LTE-Sim/!svn/ver/75/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/LTE-Sim/!svn/ver/75/README
+END

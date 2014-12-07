@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/LTE-Sim/!svn/ver/75/src/device/CqiManager
+END
+fullband-cqi-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LTE-Sim/!svn/ver/75/src/device/CqiManager/fullband-cqi-manager.h
+END
+wideband-cqi-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LTE-Sim/!svn/ver/75/src/device/CqiManager/wideband-cqi-manager.cpp
+END
+cqi-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LTE-Sim/!svn/ver/75/src/device/CqiManager/cqi-manager.cpp
+END
+wideband-cqi-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LTE-Sim/!svn/ver/75/src/device/CqiManager/wideband-cqi-manager.h
+END
+cqi-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/LTE-Sim/!svn/ver/75/src/device/CqiManager/cqi-manager.h
+END
+fullband-cqi-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/LTE-Sim/!svn/ver/75/src/device/CqiManager/fullband-cqi-manager.cpp
+END

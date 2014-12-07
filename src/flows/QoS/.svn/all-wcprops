@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS
+END
+QoSForFLS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSForFLS.cpp
+END
+QoSForM_LWDF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSForM_LWDF.cpp
+END
+QoSForFLS.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSForFLS.h
+END
+QoSForEXP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSForEXP.cpp
+END
+QoSParameters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSParameters.cpp
+END
+QoSForM_LWDF.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSForM_LWDF.h
+END
+QoSForEXP.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSForEXP.h
+END
+QoSParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/LTE-Sim/!svn/ver/75/src/flows/QoS/QoSParameters.h
+END

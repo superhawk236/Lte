@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model
+END
+propagation-loss-model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/propagation-loss-model.cpp
+END
+macrocell-urban-area-channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/macrocell-urban-area-channel-realization.cpp
+END
+microcell-area-channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/microcell-area-channel-realization.cpp
+END
+propagation-loss-model.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/propagation-loss-model.h
+END
+macrocell-urban-area-channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/macrocell-urban-area-channel-realization.h
+END
+3gpp-downlin-channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/3gpp-downlin-channel-realization.cpp
+END
+channel-realization-helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/channel-realization-helper.h
+END
+microcell-area-channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/microcell-area-channel-realization.h
+END
+femtocell-urban-area-channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/femtocell-urban-area-channel-realization.cpp
+END
+winner-downlink-channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/winner-downlink-channel-realization.cpp
+END
+3gpp-downlin-channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/3gpp-downlin-channel-realization.h
+END
+macrocell-rural-area-channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/macrocell-rural-area-channel-realization.cpp
+END
+femtocell-urban-area-channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/femtocell-urban-area-channel-realization.h
+END
+winner-downlink-channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/winner-downlink-channel-realization.h
+END
+macrocell-rural-area-channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/macrocell-rural-area-channel-realization.h
+END
+fast-fading-trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/fast-fading-trace.h
+END
+shadowing-trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/shadowing-trace.h
+END
+channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/channel-realization.cpp
+END
+macrocell-sub-urban-area-channel-realization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/macrocell-sub-urban-area-channel-realization.cpp
+END
+channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/channel-realization.h
+END
+macrocell-sub-urban-area-channel-realization.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/LTE-Sim/!svn/ver/75/src/channel/propagation-model/macrocell-sub-urban-area-channel-realization.h
+END

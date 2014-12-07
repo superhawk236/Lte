@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LTE-Sim/!svn/ver/75/Debug/src/protocolStack/mac/packet-scheduler
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LTE-Sim/!svn/ver/75/Debug/src/protocolStack/mac/packet-scheduler/subdir.mk
+END

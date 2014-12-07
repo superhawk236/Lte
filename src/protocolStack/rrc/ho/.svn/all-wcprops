@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho
+END
+ho-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/ho-manager.cpp
+END
+handover-entity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/handover-entity.cpp
+END
+position-based-ho-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/position-based-ho-manager.h
+END
+ho-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/ho-manager.h
+END
+power-based-ho-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/power-based-ho-manager.cpp
+END
+handover-entity.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/handover-entity.h
+END
+power-based-ho-manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/power-based-ho-manager.h
+END
+position-based-ho-manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/LTE-Sim/!svn/ver/75/src/protocolStack/rrc/ho/position-based-ho-manager.cpp
+END

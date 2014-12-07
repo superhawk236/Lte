@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-only-femto
+END
+clear.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-only-femto/clear.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/LTE-Sim/!svn/ver/75/RUN/test-femto/sinr-only-femto/run.sh
+END

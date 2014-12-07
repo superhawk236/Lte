@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr
+END
+clear.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/clear.sh
+END
+plotSINR_mob.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/plotSINR_mob.m
+END
+postSim_mob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/postSim_mob.sh
+END
+run_mob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/LTE-Sim/!svn/ver/75/RUN/plot-sinr/run_mob.sh
+END
